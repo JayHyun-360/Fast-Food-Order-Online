@@ -1,0 +1,7 @@
+{
+  "name": "Dulohan's Fast Food",
+  "description": "From Mangagoy to the world. Fast. Bold. Sarap. Real Filipino fast food done the Dulohan way. Order your favorites online now!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
